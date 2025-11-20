@@ -1,11 +1,11 @@
 <!DOCTYPE html> 
 <html lang="fr"> 
 <head> 
- <meta charset="UTF-8"> 
- <title>EduConnect</title> 
+    <meta charset="UTF-8"> 
+    <title>EduConnect</title> 
 </head> 
 <body> 
- <h1>Bienvenue sur EduConnect</h1> 
- <p>Plateforme académique collaborative.</p> 
+    <h1>Bienvenue sur EduConnect</h1> 
+    <p>Plateforme académique collaborative.</p> 
 </body> 
-</html>
+</html> 
